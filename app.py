@@ -1,1 +1,1 @@
-print("CI/CD working successfully 🚀")
+print("CI/CD working successfully")
