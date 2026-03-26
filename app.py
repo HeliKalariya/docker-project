@@ -1,1 +1,1 @@
-print("Hello from Docker + GitHub")
+print("CI/CD working successfully 🚀")
